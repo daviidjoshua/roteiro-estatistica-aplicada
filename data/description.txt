@@ -1,0 +1,20 @@
+Base: Logística e Cadeia de Suprimentos
+--------------------------------
+Distancia_entrega:
+  Distância total que os veículos percorrem para realizar as entregas, influenciando custos e tempo.
+Volume_pacotes:
+  Quantidade ou volume de pacotes transportados, refletindo a demanda e a capacidade do sistema logístico.
+Numero_paradas:
+  Número de paradas realizadas durante as rotas de entrega, que pode aumentar o tempo total da operação.
+Capacidade_frota:
+  Capacidade total da frota de veículos, medindo quantas entregas podem ser realizadas simultaneamente.
+Investimento_logistica:
+  Recursos financeiros aplicados em infraestrutura e tecnologias logísticas, que visam otimizar as operações.
+Infraestrutura_rodoviaria:
+  Qualidade e condição das estradas utilizadas, categorizada em Ruim, Médio ou Bom, impactando a eficiência.
+Trafego:
+  Nível de congestionamento nas rotas, que pode aumentar atrasos e custos.
+Tecnologia_rastreamento:
+  Indicador do uso de sistemas de rastreamento (Sim ou Não), que melhora o monitoramento das entregas.
+Tempo_entrega (variável dependente):
+  Duração total do processo de entrega, resultado da interação entre todos os fatores logísticos.
